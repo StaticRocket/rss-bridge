@@ -1,0 +1,2 @@
+#GOTIFY_URL	GOTIFY_TOKEN	GOTIFY_PRIORITY	RSS_URL	RSS_INTERVAL
+https://example.com	AABBCCDD	5	https://rss-feed.example.com	1h
